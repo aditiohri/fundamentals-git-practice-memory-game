@@ -1,1 +1,1 @@
-# fundamentals-git-practice-memory-game
+# wdi-fundamentals-memorygame
